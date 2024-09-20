@@ -1,4 +1,4 @@
-# 🚚 Sales and Shipping Mode Analysis 📊
+# 🚚 Sales and Shipping Mode Analysis 
 
 This project analyzes sales, shipping mode data, and customer behavior using Python, focusing on answering key business questions with visualizations and data analysis.
 
